@@ -28,7 +28,7 @@ Density Exchange Reactjs is a creative landing page showcasing a variety of anim
 
 Follow these steps to get the project up and running on your local machine:
 
-1. Clone this repository: `git clone https://github.com/nikeshsharma192002/Density-Exchange.git`
+1. Clone this repository: `git clone https://github.com/nikeshsharma192002/Density-Exchange-Reactjs.git`
 2. Navigate to the project directory: `cd Density-Exchange-Reactjs`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
