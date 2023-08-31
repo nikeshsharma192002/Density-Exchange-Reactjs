@@ -6,7 +6,7 @@ const VideoComponent = () => {
     <>
       <Box
         bgColor={"#EDEBFD"}
-        width={"68%"}
+        width={"80%"}
         margin={"auto"}
         padding={"40px"}
         mb={"35px"}
