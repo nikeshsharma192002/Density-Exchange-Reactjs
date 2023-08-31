@@ -1,12 +1,3 @@
-# [Density-Exchange-Reactjs]
-
-
-
-## Demo
-
-
-
-
 ## Introduction
 
 Density Exchange Reactjs is a creative landing page showcasing a variety of animations using Next.js, Chakra UI, Framer Motion, and GSAP. It aims to provide a visually appealing experience for users interested in exploring different types of animations.
